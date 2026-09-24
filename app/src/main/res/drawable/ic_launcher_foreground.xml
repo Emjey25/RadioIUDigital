@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing Teal Accent Disk -->
+    <path
+        android:fillColor="#0D9488"
+        android:pathData="M54,26 C38.536,26 26,38.536 26,54 C26,69.464 38.536,82 54,82 C69.464,82 82,69.464 82,54 C82,38.536 69.464,26 54,26 Z" />
+    <!-- Dark Inner Core -->
+    <path
+        android:fillColor="#00236F"
+        android:pathData="M54,32 C41.85,32 32,41.85 32,54 C32,66.15 41.85,76 54,76 C66.15,76 76,66.15 76,54 C76,41.85 66.15,32 54,32 Z" />
+    <!-- Broadcast Waves Outer -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#86F2E4"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M42,42 C45.2,38.8 49.4,37 54,37 C58.6,37 62.8,38.8 66,42 M42,66 C45.2,69.2 49.4,71 54,71 C58.6,71 62.8,69.2 66,66" />
+    <!-- Broadcast Waves Mid -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M46,46 C48.1,43.9 50.9,42.5 54,42.5 C57.1,42.5 59.9,43.9 62,46 M46,62 C48.1,64.1 50.9,65.5 54,65.5 C57.1,65.5 59.9,64.1 62,62" />
+    <!-- Central Node / Dot -->
+    <path
+        android:fillColor="#86F2E4"
+        android:pathData="M54,49 C51.24,49 49,51.24 49,54 C49,56.76 51.24,59 54,59 C56.76,59 59,56.76 59,54 C59,51.24 56.76,49 54,49 Z" />
+</vector>

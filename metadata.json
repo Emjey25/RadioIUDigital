@@ -1,0 +1,6 @@
+{
+  "name": "IU Digital Radio",
+  "description": "Aplicación de radio universitaria y streaming en vivo para la comunidad de IU Digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
